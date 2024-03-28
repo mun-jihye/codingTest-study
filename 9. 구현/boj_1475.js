@@ -3,7 +3,7 @@
  *
  * 입력 : 방 번호 N
  * 출력 : 필요한 세트의 개수
- * point : 못품 ...
+ * point : numbers 배열의 최댓값을 구하는 방법 사용
  */
 const input = require("fs")
   .readFileSync(
